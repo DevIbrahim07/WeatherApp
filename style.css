@@ -91,7 +91,26 @@ body {
   margin-top: 10px;
   display: none;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 376px) {
+  .weather h1 {
+    font-size: 30px;
+  }
+  .weather h2 {
+    font-size: 25px;
+  }
+  .col img {
+    width: 25px;
+  }
+  .humidity,
+  .wind {
+    font-size: 15px;
+    margin-top: -3px;
+  }
+  .col p {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 600px) {
   .search input {
     width: 40%;
     height: 90%;
