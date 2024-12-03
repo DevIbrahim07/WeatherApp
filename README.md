@@ -1,0 +1,1 @@
+# This project is a weather forecasting application that provides real-time weather updates for different locations. It uses a modern and user-friendly interface to display temperature, humidity, and weather conditions.
